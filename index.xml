@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>github预览HTML界面</title>
+      <link>http://example.org/posts/%E5%AE%9E%E7%8E%B0git%E9%A2%84%E8%A7%88html%E7%95%8C%E9%9D%A2/</link>
+      <pubDate>Thu, 02 Jan 2020 14:32:12 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E5%AE%9E%E7%8E%B0git%E9%A2%84%E8%A7%88html%E7%95%8C%E9%9D%A2/</guid>
+      <description>如何实现 1.在github上demo的仓库页面，点击“setting”按钮；
+2.找到GitHub Pages版块，选择Source为“master branch”，然后保存（或者在Theme Chooser处，点击Change theme，进入页面后选择主题保存，这样也可以）；
+3.页面会出现一个新链接，在链接后面加上demo的HTML文件名，即可跳转到demo显示的页面。</description>
+    </item>
+    
+    <item>
       <title>开博大吉</title>
       <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Thu, 02 Jan 2020 14:32:12 +0800</pubDate>
